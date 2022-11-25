@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400&display=swap');
+
+body{
+    Fill: Solid#401010
+}
+
+.home{
+    Font-family: Poppins
+    Font style: Regular
+    Font size: 25px
+    Line height: 20px
+    Line height: 82%
+    Align: Left
+    Vertical align: Top
+}
